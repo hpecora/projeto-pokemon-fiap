@@ -1,6 +1,6 @@
 'use client';
 
-import '..//global.css';
+import '../../global.css';
 import { useEffect, useState } from 'react';
 import { useParams } from 'next/navigation';
 import { fetchCards } from '@/app/services/api';
