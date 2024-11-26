@@ -2,8 +2,8 @@ import { NextResponse } from 'next/server';
 
 const users = [
     {
-        username: 'HPVS', // Usuário padrão
-        password: '130797', // Senha padrão
+        username: 'Hpecora', // Usuário padrão
+        password: '237699', // Senha padrão
     },
 ];
 
